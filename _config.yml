@@ -101,4 +101,6 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  branch: main
+  repo: https://github.com/ttttkkkkyiling/yiling.github.io
